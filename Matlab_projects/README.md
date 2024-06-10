@@ -1,4 +1,4 @@
-# Matlab Projects
+# Matlab Projects <img src="https://github.com/JDodsworth/Univeristy-Projects/assets/171965237/be1ce429-189a-451b-8c33-efe0c7136df5" alt="Matlab logo" width=50>
 
 The focus of these projects was numerical linear algebra - solving linear systems numerically and efficiently.
 
